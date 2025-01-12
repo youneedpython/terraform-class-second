@@ -1,6 +1,5 @@
-resource "aws_s3_bucket" "ldcc-as-demo" {
-  bucket = "ldcc-as-demo"
-
+resource "aws_s3_bucket" "happyitworld-demo" {
+  bucket = "happyitworld-demo"
 }
 
 
